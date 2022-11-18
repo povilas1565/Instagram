@@ -1,11 +1,11 @@
-package com.example.instagramm;
+package com.example.instacat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InstagrammApplication {
+public class InstaCatApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(InstagrammApplication.class, args);
+		SpringApplication.run(InstaCatApplication.class, args);
 	}
 }
